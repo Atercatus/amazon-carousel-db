@@ -11,6 +11,54 @@
           "link": "link"
         }
       ]
+    },
+    {
+      "shortcut": "shortcut",
+      "contents": [
+        {
+          "main-photo": "mainphoto",
+          "category": "category",
+          "headline": "headline",
+          "body": "body",
+          "link": "link"
+        }
+      ]
+    },
+    {
+      "shortcut": "shortcut",
+      "contents": [
+        {
+          "main-photo": "mainphoto",
+          "category": "category",
+          "headline": "headline",
+          "body": "body",
+          "link": "link"
+        }
+      ]
+    },
+    {
+      "shortcut": "shortcut",
+      "contents": [
+        {
+          "main-photo": "mainphoto",
+          "category": "category",
+          "headline": "headline",
+          "body": "body",
+          "link": "link"
+        }
+      ]
+    },
+    {
+      "shortcut": "shortcut",
+      "contents": [
+        {
+          "main-photo": "mainphoto",
+          "category": "category",
+          "headline": "headline",
+          "body": "body",
+          "link": "link"
+        }
+      ]
     }
   ]
 }
